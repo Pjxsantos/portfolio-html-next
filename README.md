@@ -3,14 +3,14 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Um+desenvolvedor+web+front-end)](https://pjxsantos.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Um+desenvolvedor+web+front-end)](https://pjxsantos.vercel.app/#)
   
 </div>
 
 <div align=center>
 
 
-<a href="https://gato-html-next.vercel.app/">
+<a href="https://pjxsantos.vercel.app/#">
  Projeto </a>
 
 <h2>Migração de Projeto HTML, CSS e JS ➡️ NEXT.JS e TypeScript 😉</h2>
