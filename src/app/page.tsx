@@ -22,10 +22,6 @@ export default function Home() {
     content="https://pjxsantos.github.io/images/paulo.jpg"
     property="og:image"
   />
-  <meta
-    content="Crio web designs personalizados. Tenho habilidade em escrever códigos bem projetados, testáveis ​​e eficientes usando as melhores práticas atuais em desenvolvimento Web. Aprendo rápido, trabalho duro e trabalho em equipe, com proficiência na criação de páginas da web criativas e inovadoras."
-    name="description"
-  />
   <link rel="stylesheet" href="css/style.css" media="screen" />
   <link rel="stylesheet" href="css/Pjxsantos.css" media="screen" />
   <meta name="generator" content="V 2.0, Pjxsantos" />
