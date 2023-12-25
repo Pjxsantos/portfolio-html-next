@@ -125,7 +125,7 @@ export default function Home() {
                 className="u-active-custom-color-3 u-border-2 u-border-active-white u-border-white u-button-style u-custom-color-5 u-hover-custom-color-3 u-nav-link u-radius u-text-active-white u-text-body-alt-color u-text-hover-white"
                 href="#"
                 style={{
-                  '--radius': '10px',
+                  'borderRadius': '10px',
                   padding: '10px 20px'
                 }}
               >
@@ -157,7 +157,7 @@ export default function Home() {
                 className="u-active-custom-color-3 u-border-2 u-border-active-white u-border-white u-button-style u-custom-color-5 u-hover-custom-color-3 u-nav-link u-radius u-text-active-white u-text-body-alt-color u-text-hover-white"
                 href="#sec-b1c4"
                 style={{
-                  '--radius': '10px',
+                  'borderRadius': '10px',
                   padding: '10px 20px'
                 }}
               >
@@ -169,7 +169,7 @@ export default function Home() {
                 className="u-active-custom-color-3 u-border-2 u-border-active-white u-border-white u-button-style u-custom-color-5 u-hover-custom-color-3 u-nav-link u-radius u-text-active-white u-text-body-alt-color u-text-hover-white"
                 href="#carousel_c8ff"
                 style={{
-                  '--radius': '10px',
+                  'borderRadius': '10px',
                   padding: '10px 20px'
                 }}
               >
@@ -275,7 +275,7 @@ export default function Home() {
             >
               <div className="u-border-5 u-border-white u-container-layout u-valign-middle u-container-layout-1">
                 <div
-                  alt=""
+                  
                   className="u-border-5 u-border-white u-hover-feature u-image u-image-circle u-preserve-proportions u-image-1"
                   data-image-height="897"
                   data-image-width="876"
