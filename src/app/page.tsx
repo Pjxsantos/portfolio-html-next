@@ -182,7 +182,7 @@ export default function Home() {
                 <li className="u-nav-item">
                   <a
                     className="u-button-style u-nav-link"
-                    href="https://www.jw.org/pt/ensinos-biblicos/curso-biblia-instrutor/"
+                    href="https://www.ev.org.br/cursos"
                   >
                     Cursos
                   </a>
@@ -199,9 +199,9 @@ export default function Home() {
                       <li className="u-nav-item">
                         <a
                           className="u-button-style u-nav-link"
-                          href="https://www.jw.org/pt/ensinos-biblicos/curso-biblia-instrutor/"
+                          href="https://www.alura.com.br/"
                         >
-                          CURSO DA BÍBLIA
+                          CURSOS ALURA
                         </a>
                       </li>
                     </ul>
@@ -530,7 +530,7 @@ export default function Home() {
                 </a>
               </h4>
               <p className="u-text u-text-body-alt-color u-text-11">
-                Toda vez que enfrento um “bloqueio”, ou preciso de uma dica, gosto de recorrer aos pensamentos brilhantes de Jeová...
+                “Não é a linguagem de programação que define o programador, mas sim sua lógica.”
               </p>
             </div>
           </div>
@@ -566,16 +566,16 @@ export default function Home() {
       >
         <div className="u-container-layout u-container-layout-1">
           <h2 className="u-text u-text-default u-text-2">
-            Recorram a Jeová Deus
+            Motivacão
           </h2>
           <p className="u-text u-text-default u-text-3">
-            Toda vez que enfrento um “bloqueio”, ou preciso de uma dica, gosto de recorrer aos pensamentos brilhantes de Jeová ele sim sabe resumir informações poderosas em poucas palavras.
+            .“A primeira regra de qualquer tecnologia aplicada aos negócios é a de que a automação usada em uma operação eficiente diretamente magnifica a eficiência. A Segunda é saber que a automação aplicada à operações ineficientes magnificará a ineficácia.” – <b>Bill Gates</b>
           </p>
           <a
             className="u-active-white u-align-center u-border-active-white u-border-hover-white u-border-none u-btn u-btn-round u-button-style u-gradient u-hover-feature u-hover-white u-none u-radius u-text-active-white u-text-hover-black u-text-white u-btn-1"
-            href="https://www.jw.org/pt/ensinos-biblicos/textos-biblicos/isaias-41-10/"
+            href="https://github.com/Pjxsantos/portfolio-html-next/"
           >
-            Isaías 41:10
+            Repositório
             <span
               style={{
                 fontWeight: '700'
