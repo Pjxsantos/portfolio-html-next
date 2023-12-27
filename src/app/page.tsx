@@ -569,7 +569,7 @@ export default function Home() {
             Motivacão
           </h2>
           <p className="u-text u-text-default u-text-3">
-            .“A primeira regra de qualquer tecnologia aplicada aos negócios é a de que a automação usada em uma operação eficiente diretamente magnifica a eficiência. A Segunda é saber que a automação aplicada à operações ineficientes magnificará a ineficácia.” – <b>Bill Gates</b>
+            “A primeira regra de qualquer tecnologia aplicada aos negócios é a de que a automação usada em uma operação eficiente diretamente magnifica a eficiência. A Segunda é saber que a automação aplicada à operações ineficientes magnificará a ineficácia.” – <b>Bill Gates</b>
           </p>
           <a
             className="u-active-white u-align-center u-border-active-white u-border-hover-white u-border-none u-btn u-btn-round u-button-style u-gradient u-hover-feature u-hover-white u-none u-radius u-text-active-white u-text-hover-black u-text-white u-btn-1"
