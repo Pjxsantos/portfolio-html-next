@@ -1,20 +1,30 @@
-# <p align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sou Paulo Jorge</p>
+<h1 align="center">Meu Primeiro Portfólio 😁</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse repositório contém essas tais tecnologias :
+
+- Next.js
+- Typescript 
+- JavaScript
+- css
+
+## 💻 Projeto
+
+Desenvolvi o meu primeiro próprio!
+
+## 🖼️ Tela Inicial : 
+
+![image](https://https://pjxsantos.vercel.app/images/iniciao.jpg)
 
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Um+desenvolvedor+web+front-end)](https://pjxsantos.vercel.app/#)
-  
-</div>
-
-<div align=center>
-
-
-<a href="https://pjxsantos.vercel.app/#">
- Projeto </a>
-
-<h2>Migração de Projeto HTML, CSS e JS ➡️ NEXT.JS e TypeScript 😉</h2>
-  </div>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -52,4 +62,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# portfolio-html-next
+# paulo-next
