@@ -22,7 +22,7 @@ Desenvolvi o meu primeiro próprio!
 
 ## 🖼️ Tela Inicial : 
 
-![image](https://https://pjxsantos.vercel.app/images/iniciao.jpg)
+![image](https://https://pjxsantos.vercel.app/images/inicio.jpg)
 
 
 
